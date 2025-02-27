@@ -2,7 +2,7 @@
 <html>
 <head>
  <style>
-   body {color:rgb(0,232,15);
+   body {color:rgb(0,232,125);
         background-color: rgb(100,0,200);}
 
    p {color:rgb(20,30,40);}
