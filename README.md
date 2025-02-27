@@ -13,7 +13,7 @@
 <h1>Overskrift 1</h1>
 <br>
 
-<img src="Sten og Stoffer.jpg" alt="Sten og Stoffer" height="647" width="1800">
+<img src="Sten og stoffer.jpg" alt="Sten og Stoffer" height="647" width="1800">
 
 <p>En lille smule tekst</p>
 <br>
