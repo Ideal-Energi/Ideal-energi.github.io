@@ -7,14 +7,15 @@
    p {color:rgb(20,30,40);}
 </style> 
  </head>
-![stenogstoffer](https://github.com/user-attachments/assets/8c163d14-10cc-4867-a015-e813a146509f)
+
 
  <body>
 
 <h1>Overskrift 1</h1>
 <br>
 
-!"Sten og stoffer"(images/stenogstoffer.jpg)
+
+![stenogstoffer](https://github.com/user-attachments/assets/8c163d14-10cc-4867-a015-e813a146509f)
 
 <p>En lille smule tekst</p>
 <br>
