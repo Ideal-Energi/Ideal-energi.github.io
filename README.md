@@ -15,7 +15,7 @@
 <br>
 
 
-<img src="images/stenogstoffer" width=500/>
+<img src="images/stenogstoffer.jpg" width=500/>
 
 <p>En lille smule tekst</p>
 <br>
