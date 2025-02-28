@@ -14,8 +14,7 @@
 <h1>Overskrift 1</h1>
 <br>
 
-
-![stenogstoffer](https://github.com/user-attachments/assets/8c163d14-10cc-4867-a015-e813a146509f)
+<img src="images/"stenogstoffer" width=500/>
 
 <p>En lille smule tekst</p>
 <br>
