@@ -13,7 +13,7 @@
 <h1>Overskrift 1</h1>
 <br>
 
-!"Sten og stoffer"(images/stenstoffer.jpg)
+!"Sten og stoffer"(images/stenogstoffer.jpg)
 
 <p>En lille smule tekst</p>
 <br>
